@@ -1,5 +1,5 @@
 class Teacher{
-	private String name£»
+	private String nameÂ£Â»
 	private int age;
 
 	private String location;
@@ -8,7 +8,7 @@ class Teacher{
 	return this.location;
 	}
 			
-	public voidsetLocation(String location){
+	public void setLocation(String location){
 	this.location = location ;
 }
 }
