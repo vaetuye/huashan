@@ -7,4 +7,7 @@ public class Cat{
 	System .out.println("HELLO WOrld!");
 }
 
+	private Dog lover;
+
+
 }
