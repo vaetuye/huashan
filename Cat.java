@@ -9,6 +9,7 @@ public class Cat{
 
 	private Dog lover;
 	private Cat cat;
+	private Pig pig;
 
 
 }
